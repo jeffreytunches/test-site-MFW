@@ -23,6 +23,7 @@
   padding-bottom: 0px;
   margin-bottom: 0px;
   width: 100%;
+  font-size: 11px;
 }
 
 .logoTop {
@@ -102,7 +103,7 @@
   /*background-color: blue;*/
   height: 100px;
   /*color: white;*/
-  margin-left: 11px;
+  margin-left: 21px;
 }
 
 .eight {
