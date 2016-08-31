@@ -1,0 +1,115 @@
+.XI {
+  align-content: center;
+  width: 80%
+}
+
+.kristy {
+  align-content: center;
+  width: 80%
+}
+
+.sara {
+  align-content: center;
+  width: 80%
+}
+
+.navContain {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.navbar {
+  padding-bottom: 0px;
+  margin-bottom: 0px;
+  width: 100%;
+}
+
+.logoTop {
+ height: 50px;
+}
+
+.a-logo{
+  height: 65px;
+}
+
+.navbar-brand {
+  padding-top: 0px;
+}
+
+.carousel-inner {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+/*.col-md-4 {
+  background-color: red;
+}
+*/
+
+.threeGrid {
+  width: 100%;
+  padding-left: 0px;
+  padding-right: 0px;
+}
+
+.titles {
+  margin-left: 10px;
+}
+
+.thumbnail {
+  display: inline-block;
+  margin-top: 7px;
+}
+
+.one {
+  background-color: #696968;
+  color: white;
+  height: 530px;
+}
+
+.two {
+  background-color: #DEDEDE;
+  height: 530px;
+}
+
+.three {
+  background-color: #696968;
+  color: white;
+  height: 530px;
+}
+
+.four {
+  background-color: #000000;
+  height: 100px;
+  color: white;
+}
+
+.five {
+  background-color: #000000;
+  height: 100px;
+  color: white;
+  padding-top: 10px;
+}
+
+.six {
+  background-color: #000000;
+  height: 100px;
+  color: white;
+}
+
+.seven {
+  /*background-color: blue;*/
+  height: 100px;
+  /*color: white;*/
+  margin-left: 11px;
+}
+
+.eight {
+  /*background-color: yellow;*/
+  height: 500px;
+  color: white;
+  margin-top: 20px;
+  margin-right: 5px;
+}
+
